@@ -18,17 +18,17 @@ z-index: 999;
 }
 div.snsLinks {
   display: flex;
-  margin: 18px 5px 0 auto;
+  margin: 12px 5px 0 auto;
   height: 2.8rem;
 }
 p.snsLinks {
   font-size: large;
   padding: 0;
-  margin-top: 19px;
+  margin-top: 16px;
   line-height: 0;
 }
 a.snsLinks {
-  margin: 0 5px 0 5px;
+  margin: 0 3px 0 3px;
   text-decoration: none;
   color: #ffffff;
   font-weight: bold;
@@ -45,14 +45,14 @@ a.snsLinks:active {
   background-color: #cc8b00;
 }
 #logo {
-  height: 64px;
+  height: 48px;
   margin: 5px 5px 5px 5px;
   vertical-align: top;
   border: 4px solid #ffffff;
-  border-radius: 64px;
+  border-radius: 48px;
 }
 main{
-    padding-top: 85px;
+    padding-top: 70px;
     animation: fadeIn 2.5s cubic-bezier(0.33, 1, 0.68, 1) forwards;
     text-align: center;
 }
